@@ -51,9 +51,10 @@
 
 ![Screenshot 2023-11-20 081938](https://github.com/mounika2005/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/145633112/f0c35ffe-d493-45ef-b2cc-3e3adf7849a9)
 
+![Screenshot 2023-11-20 082542](https://github.com/mounika2005/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/145633112/779950cc-0259-4f67-a44f-f671b3f8f9d6)
 
 
-![image](https://github.com/Sellakumar1987/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/113594316/803397cb-5685-4bc2-82c2-6b1d1e3a2eec)
+![image](https://github.com/mounika2005/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/145633112/77c7f746-e052-4f42-ab7e-b15759061ee8)
 
 ![image](https://github.com/Sellakumar1987/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/113594316/45ac4da8-f236-4e23-b0ce-a77aac6ac8b0)
 
